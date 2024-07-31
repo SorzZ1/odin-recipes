@@ -13,7 +13,6 @@ The Odin Recipes project aims to provide a practical introduction to HTML and CS
 
 By the end of this project, you will have demonstrated your ability to:
 - Structure web pages using semantic HTML
-- Style web pages using CSS
 - Link multiple pages within a website
 - Use images and other media to enhance content
 
