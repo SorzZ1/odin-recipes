@@ -25,17 +25,10 @@ By the end of this project, you will have demonstrated your ability to:
 - Adding images to enhance recipe presentation
 - Linking pages together using anchor (`<a>`) tags
 
-### CSS
-- Applying basic styles to HTML elements
-- Using classes and IDs to target specific elements
-- Creating a simple, cohesive design for the website
-- Utilizing external stylesheets to manage CSS
-
 ## Self-Reflection (Post-Completion)
 
 Upon completing this project, I have solidified my understanding of the following concepts:
 - **HTML**: I learned how to use various HTML elements effectively to structure content and improve accessibility.
-- **CSS**: I gained experience in styling web pages and learned how to create a visually appealing layout.
 - **Web Development Workflow**: I practiced the essential workflow of planning, building, testing, and refining a web project.
 
 This project has been an excellent starting point in my journey to becoming a proficient web developer. I look forward to building more complex projects and further enhancing my skills.
