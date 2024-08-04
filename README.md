@@ -37,3 +37,8 @@ This project has been an excellent starting point in my journey to becoming a pr
 1. Clone the repository:
    ```sh
    git clone https://github.com/SorzZ1/odin-recipes.git
+
+2. Copy This Link:
+    ```sh
+    https://github.com/SorzZ1/odin-recipes
+   
