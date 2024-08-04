@@ -40,5 +40,5 @@ This project has been an excellent starting point in my journey to becoming a pr
 
 2. Copy This Link:
     ```sh
-    https://github.com/SorzZ1/odin-recipes
+     https://sorzz1.github.io/odin-recipes/
    
